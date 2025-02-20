@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm Ritesh 👋
 
-Welcome to my GitHub profile! I'm a passionate data analyst who loves to explore new technologies and contribute to open source projects.
+Welcome to my GitHub profile!
+I'm a passionate data analyst who loves to explore new technologies and contribute to open source projects.
 -⚡ Fun fact: ... I am a good learner.
 -⚡ Strengths: ... I have good communication skills with problem solving attitude and ability to work under pressure. 
 
